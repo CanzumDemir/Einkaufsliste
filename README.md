@@ -10,4 +10,4 @@ Damit Sie einen Eindruck von mir machen können, zeige ich Ihnen ein Bild von mi
 
 Ich habe auch ein neues YouTube Video hochgeladen.
 Hier können Sie mehr über mich erfahren!
-[Erfahren Sie mehr!](https://www.youtube.com/watch?v=7Q4cKsywWDc&t=26s)
+![Erfahren Sie mehr!](https://www.youtube.com/watch?v=7Q4cKsywWDc&t=26s)
